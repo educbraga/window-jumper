@@ -4,8 +4,8 @@ A **MacOS Hammerspoon script** for easily jumping between visible windows in the
 
 ## Features
 - Quickly cycle through open windows in the current space.
-- Uses `Cmd + \\`` to switch to the next window.
-- Uses `Cmd + Shift + \\`` to switch to the previous window.
+- Uses `Cmd + \`` to switch to the next window.
+- Uses `Cmd + Shift + \`` to switch to the previous window.
 - Automatically updates the window list when windows are opened, closed, or moved.
 
 ## Installation
@@ -28,8 +28,8 @@ A **MacOS Hammerspoon script** for easily jumping between visible windows in the
      ```
 
 ## Usage
-- **Switch to the next window:** Press `Cmd + \\``
-- **Switch to the previous window:** Press `Cmd + Shift + \\``
+- **Switch to the next window:** Press `Cmd + \``
+- **Switch to the previous window:** Press `Cmd + Shift + \``
 
 ## How It Works
 - The script maintains a list of **visible windows** in the current space.
